@@ -1,7 +1,7 @@
 
 # @param {Integer[]} nums
 # @param {Integer} target
-# @return {Integer[]}
+# @return {Integer[]} #
 
 def two_sum(nums, target)
   checked_numbers = {}
